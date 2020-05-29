@@ -1,0 +1,3 @@
+org/genesis/hadoop/temperature/MaxTemperature.class
+org/genesis/hadoop/temperature/MaxTemperatureMapper.class
+org/genesis/hadoop/temperature/MaxTemperatureReducer.class
